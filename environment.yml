@@ -15,3 +15,4 @@ dependencies:
   - pip:
     - OpenDSSDirect.py==0.3.7
     - PYPOWER==5.1.4
+    - jupyter-contrib-nbextensions==0.5.1
